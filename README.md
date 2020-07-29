@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+Pega seu café e bora criar bugs(ou as vezes soluções)
 <!--
 **freaklucas/freaklucas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
