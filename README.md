@@ -1,6 +1,7 @@
 ### Hi there 👋
 Pega seu café e bora criar bugs(ou as vezes soluções)
-![cafe](https://tenor.com/view/rooster-coffee-gif-9759367)
+
+<div class="tenor-gif-embed" data-postid="9759367" data-share-method="host" data-width="100%" data-aspect-ratio="1.009478672985782"><a href="https://tenor.com/view/rooster-coffee-gif-9759367">Good Morning Coffee TIme GIF</a> from <a href="https://tenor.com/search/goodmorning-gifs">Goodmorning GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 <!--
 **freaklucas/freaklucas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
