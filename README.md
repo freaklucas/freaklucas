@@ -1,7 +1,6 @@
 ### Hi there 👋
 Pega seu café e bora criar bugs(ou as vezes soluções)
-
-<div class="tenor-gif-embed" data-postid="9759367" data-share-method="host" data-width="100%" data-aspect-ratio="1.009478672985782"><a href="https://tenor.com/view/rooster-coffee-gif-9759367">Good Morning Coffee TIme GIF</a> from <a href="https://tenor.com/search/goodmorning-gifs">Goodmorning GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<iframe src="https://giphy.com/embed/3o7qDWzq6dWuDnYWJ2" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/coffee-black-hole-spill-3o7qDWzq6dWuDnYWJ2">via GIPHY</a></p>
 <!--
 **freaklucas/freaklucas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
