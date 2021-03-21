@@ -1,6 +1,10 @@
 ### Hi there 👋
 Pega seu café e bora criar bugs(ou as vezes soluções)
 
+Desenvolvedor de software full stack, Vue, Laravel e Php.
+	<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  
+  
 <!--
 **freaklucas/freaklucas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
