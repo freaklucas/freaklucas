@@ -1,5 +1,6 @@
 ### Hi there 👋
 Pega seu café e bora criar bugs(ou as vezes soluções)
+<hr>
 <br>
 
 ### Olá, seja bem vindo, sou um Desenvolvedor de software na stack: Vue, Laravel e Php.
