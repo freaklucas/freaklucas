@@ -7,8 +7,8 @@ Pega seu café e bora criar bugs(ou as vezes soluções)
   <center>
 <table>
     <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=freaklucas&hide=html&layout=compact&theme=radical" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=freaklucas&theme=radical"/></td>
+        <td><img width="390px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=freaklucas&hide=html&layout=compact&theme=radical" /></td>
+        <td><img width="465px" align="left" src="https://github-readme-stats.vercel.app/api?username=freaklucas&theme=radical"/></td>
     </tr>   
 </table>
 </center>
