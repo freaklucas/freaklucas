@@ -2,7 +2,7 @@
 Pega seu café e bora criar bugs(ou as vezes soluções)
 <br>
 
-### Olá, sou um Desenvolvedor de software full stack, Vue, Laravel e Php.
+### Olá, seja bem vindo, sou um Desenvolvedor de software na stack, Vue, Laravel e Php.
 
   <center>
 <table>
