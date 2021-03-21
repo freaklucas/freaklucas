@@ -1,18 +1,21 @@
 ### Hi there 👋
 Pega seu café e bora criar bugs(ou as vezes soluções)
+<br>
 
-## Desenvolvedor de software full stack, Vue, Laravel e Php.
+### Olá, sou um Desenvolvedor de software full stack, Vue, Laravel e Php.
 
   <center>
 <table>
     <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=freaklucas&hide=html&layout=compact&theme=buefy" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=freaklucas&theme=buefy"/></td>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=freaklucas&hide=html&layout=compact&theme=synthwave" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=freaklucas&theme=synthwave"/></td>
     </tr>   
 </table>
 </center>
 
-## Redes Sociais
+### Onde me encontrar?
+
+<a href="https://www.linkedin.com/in/lucas-oliveira-7524b41a5/"><img src="https://imagens-revista-pro.vivadecora.com.br/uploads/2017/10/como-usar-o-linkedin-para-empresas.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/lucas-oliveira-7524b41a5/)
 
 
   
