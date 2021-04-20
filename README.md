@@ -3,7 +3,7 @@ Pega seu café e bora criar bugs(ou as vezes soluções)
 <hr>
 <br>
 
-### Olá, seja bem vindo, sou um desenvolvedor front end: javascript e vue
+### Olá, seja bem vindo(a)
 
   <center>
 <table>
