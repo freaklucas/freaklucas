@@ -3,7 +3,7 @@ Pega seu café e bora criar bugs(ou as vezes soluções)
 <hr>
 <br>
 
-### Olá, seja bem vindo(a), sou um desenvolvedor front end, aqui você irá encontrar:
+## Olá, seja bem vindo(a), sou um desenvolvedor front end, aqui você encontrará:
 <p>1-Desenvolvimento de interface usando vue js</p>
 <p>2- Estudo de javascript,principalmente ferramentais do ES6+ e tudo o que faz o ecossistema do javascript ser lindo e funcional</p/>
 <p>3- Algum projeto que desenvolvi pra faculdade, pode incluir estrutura de dados e afins</p>  
