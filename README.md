@@ -6,7 +6,7 @@ Pega seu café e bora criar bugs(ou as vezes soluções)
 ## Olá, seja bem vindo(a), sou um desenvolvedor front end, aqui você encontrará:
 <p>1- Desenvolvimento de interface usando vue js, react, tailwind e <b>(as vezes)</b> a gente se esbarra no flutter</p>
 <p>2- Estudo de javascript, principalmente ferramentais do ES6+ e tudo o que faz o ecossistema do javascript ser lindo e funcional</p/>
-<p>3- Algum projeto que desenvolvi pra faculdade, pode incluir estruturas de dados e afins</p>  
+<p>3- Algum projeto que desenvolvi pra faculdade, pode incluir estruturas de dados, árvores e afins</p>  
 
   <center>
 <table>
