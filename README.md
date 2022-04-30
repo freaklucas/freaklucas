@@ -3,19 +3,11 @@ Pega seu café e bora criar bugs(ou as vezes soluções)
 <hr>
 <br>
 
-## Olá, seja bem vindo(a), sou um desenvolvedor front end, aqui você encontrará:
-<p>1- Desenvolvimento de interface usando vue js, react, testes em javascript, tailwind e <b>(as vezes)</b> a gente se esbarra em backend</p>
-<p>2- Estudo de javascript, principalmente ferramentais do ES6+ e tudo o que faz o ecossistema do javascript ser lindo e funcional</p/>
-<p>3- Algum projeto que desenvolvi pra faculdade, pode incluir estruturas de dados, árvores e afins</p>  
+I'm a Software Developer Full Stack building stuff at Javascript, Vue.js, React, Node.js and Mongodb.
 
-  <center>
-<table>
-    <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=freaklucas&hide=html&layout=compact&theme=radical" /></td>
-        <td><img width="355px" align="left" src="https://github-readme-stats.vercel.app/api?username=freaklucas&theme=radical"/></td>
-    </tr>   
-</table>
-</center>
+Frontend development specialist, I solve real problems with scalable and modern solutions.
+
+
 
 ### Onde me encontrar?
 
