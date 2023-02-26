@@ -12,7 +12,7 @@ Frontend development specialist, I solve real problems with scalable and modern 
 Where to find me
 
 <a href="https://www.linkedin.com/in/lucas-oliveira-7524b41a5/"></a> [LinkedIn](https://www.linkedin.com/in/lucas-oliveira-7524b41a5/) |
-<a href="https://lucasfreak.netlify.app/" target="_blank">Website</a>
+<a href="https://lucasol.vercel.app/" target="_blank">Website</a>
 
 <br>
 
