@@ -3,7 +3,7 @@ Pega seu café e bora criar bugs(ou as vezes soluções)
 <hr>
 <br>
 
- I'm a Software Developer Full Stack building stuff at Javascript, Vue.js, React, Node.js and Mongodb.
+ I'm a Software Developer Full Stack building stuff at Javascript, React, Next, Vue.js, Nuxt, Node.js and Mongodb.
 
 Frontend development specialist, I solve real problems with scalable and modern solutions.
 
