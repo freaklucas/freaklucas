@@ -1,4 +1,5 @@
 ### Hi there 👋
+<img src="http://blogporta80.com.br/arquivosDoSite/sidebar/imagens/tux.gif" width="170" align="right">
 Pega seu café e bora criar bugs(ou as vezes soluções)
 <hr>
 <br>
