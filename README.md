@@ -4,8 +4,10 @@ Pega seu café e bora criar bugs(ou as vezes soluções)
 <hr>
 <br>
 
- I'm a Software Developer Full Stack building stuff at Javascript, React, Next, Vue.js, Nuxt, Node.js and Mongodb.
+Currently working as a fullstack software engineer with C#, Asp.net core and blazor web assembly.
 
+ I'm a Software Developer Full Stack building stuff at Javascript, React, Next, Vue.js, Nuxt, Node.js and Mongodb.
+T
 Frontend development specialist, I solve real problems with scalable and modern solutions.
 
 
