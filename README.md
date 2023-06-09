@@ -4,7 +4,7 @@ Pega seu café e bora criar bugs(ou as vezes soluções)
 <hr>
 <br>
 
-Currently working as a fullstack software engineer with C#, Asp.net core and blazor web assembly.
+Currently working as a Fullstack software engineer with C#, Asp.net Core and Blazor WebAssembly.
 
  I'm a Software Developer Full Stack building stuff at Javascript, React, Next, Vue.js, Nuxt, Node.js and Mongodb.
 
