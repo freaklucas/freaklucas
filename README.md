@@ -1,12 +1,11 @@
 ### Hi there 👋
 <img src="http://blogporta80.com.br/arquivosDoSite/sidebar/imagens/tux.gif" width="170" align="right">
-Pega seu café e bora criar bugs(ou as vezes soluções)
 <hr>
 <br>
 
-Currently working as a Fullstack software engineer with C#, Asp.net Core and Blazor WebAssembly.
+Currently working as a Fullstack software engineer with React and React Native.
 
- I'm a Software Developer Full Stack building stuff at Javascript, React, Next, Vue.js, Nuxt, Node.js and Mongodb.
+ I'm a Software Developer Full Stack building stuff at Javascript, .net, Blazor, Vue.js, Nuxt, Node.js and Mongodb.
 
 Frontend development specialist, I solve real problems with scalable and modern solutions.
 
